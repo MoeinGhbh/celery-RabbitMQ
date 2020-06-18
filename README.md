@@ -1,4 +1,4 @@
-# use Cellery library to work with Redis databse as broker
+# Use Celery module to work with RabbitMQ (AMQP) broker
 
 ## steps:
 
